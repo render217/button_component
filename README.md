@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="" target="_blank">
+    <a href="https://button-component-rouge.vercel.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/xbmtttzMTeyGqmvxIoDB" target="_blank">
+    <a href="https://devchallenges.io/solutions/QDixYYhy6Ogzs8p5Fz7X" target="_blank">
       Solution
     </a>
     <span> | </span>
